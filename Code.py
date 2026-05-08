@@ -24,7 +24,7 @@ class GC2GD:
     def __init__(self):
         self.project_name = "GC2GD"
         self.project_subtitle = "GC2GD - Google Colab to Google Drive Downloader"
-        self.version = "1.2.8"
+        self.version = "1.0.0"
 
         self.drive_mount_path = Path("/content/drive")
         self.my_drive_path = self.drive_mount_path / "MyDrive"
