@@ -4,6 +4,7 @@
 
 > #### This repository is a fork of [AzuDL-GC2GD](https://github.com/TheGreatAzizi/AzuDL-GC2GD)
 
+
 ## Features
 
 - Direct link download to Google Drive
@@ -59,4 +60,4 @@
 
 ## License
 
-[MIT](https://github.com/denuitt1/GC2GD/blob/main/LICENSE)
+[MIT](LICENSE)
